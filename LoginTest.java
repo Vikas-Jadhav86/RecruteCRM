@@ -36,8 +36,8 @@ public class LoginTest {
 	
 	public void sendData()
 	{
-		email.sendKeys("vikasofficial86@gmail.com");
-		pass.sendKeys("Vikas@123");
+		email.sendKeys("abc@gmail.com");
+		pass.sendKeys("Abc@123");
 	}
 	public void botton()
 	{
